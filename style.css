@@ -1,0 +1,10 @@
+body {
+ background-color: rgb(190, 244, 255);
+}
+
+
+
+.form-floating{
+    position: relative;
+    bottom: -200px;
+}
